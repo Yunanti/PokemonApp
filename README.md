@@ -2,6 +2,18 @@
 
 Aplikasi Pokemon dengan memanfaatkan api https://pokeapi.co/
 
+![Login](https://github.com/user-attachments/assets/5fcfe962-30f3-4570-92c3-c1aa6697a8e9)
+![Register](https://github.com/user-attachments/assets/194e2cd4-6c37-4bbb-8e10-471eec8f1330)
+![Landing](https://github.com/user-attachments/assets/3384de78-2957-42dd-882d-a0c3b505d645)
+![Detail](https://github.com/user-attachments/assets/556a4296-d062-497b-9835-a38c9a2b87ba)
+
+## Cara Penggunaan Aplikasi
+1. Silahkan lakukan registrasi terlebih dahulu jika anda belum memiliki akun.
+2. Setelah akun berhasil teregistrasi, lakukan login di halaman login dengan username dan password yang diregistrasikan.
+3. Setelah berhasil login, anda bisa memilih atau mencari pokemon yang diinginkan.
+4. Klik pokemon yang diinginkan lalu anda akan di tunjukkan detail dari pokemon tersebut berupa nama, ability, dan gambarnya. 
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
