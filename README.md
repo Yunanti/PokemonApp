@@ -1,11 +1,13 @@
 # PokemonApp
 
-Aplikasi Pokemon dengan memanfaatkan api https://pokeapi.co/
+Aplikasi Pokemon dengan memanfaatkan API [https://pokeapi.co/](https://pokeapi.co/)
 
-![Login](https://github.com/user-attachments/assets/5fcfe962-30f3-4570-92c3-c1aa6697a8e9)
-![Register](https://github.com/user-attachments/assets/194e2cd4-6c37-4bbb-8e10-471eec8f1330)
-![Landing](https://github.com/user-attachments/assets/3384de78-2957-42dd-882d-a0c3b505d645)
-![Detail](https://github.com/user-attachments/assets/556a4296-d062-497b-9835-a38c9a2b87ba)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5fcfe962-30f3-4570-92c3-c1aa6697a8e9" width="250" />
+  <img src="https://github.com/user-attachments/assets/194e2cd4-6c37-4bbb-8e10-471eec8f1330" width="250" />
+  <img src="https://github.com/user-attachments/assets/3384de78-2957-42dd-882d-a0c3b505d645" width="250" />
+  <img src="https://github.com/user-attachments/assets/556a4296-d062-497b-9835-a38c9a2b87ba" width="250" />
+</p>
 
 ## Cara Penggunaan Aplikasi
 1. Silahkan lakukan registrasi terlebih dahulu jika anda belum memiliki akun.
