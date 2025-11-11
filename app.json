@@ -1,4 +1,7 @@
 {
   "name": "PokemonApp",
-  "displayName": "PokemonApp"
+  "displayName": "PokemonApp",
+  "plugins": [
+    "expo-asset"
+  ]
 }
